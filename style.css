@@ -1,7 +1,7 @@
 body {
     background-color: purple;
 }
-
+background-image : url(meishi.png);
 #container {
     width: 800px;
     margin: auto;
