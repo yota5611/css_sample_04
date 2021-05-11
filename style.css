@@ -1,0 +1,32 @@
+body {
+    background-color: purple;
+}
+
+#container {
+    width: 800px;
+    margin: auto;
+    background-color: white;
+}
+
+header {
+    padding: 80px;
+    height: 120px;
+}
+
+nav {
+    padding: 12px 60px;
+    background-color: pink;
+    color: black;
+}
+
+article {
+    padding: 80px;
+    min-height : 800px;
+}
+
+footer {
+    padding: 40px;
+    height: 40px;
+    background-color : black;
+    color: red;
+}
